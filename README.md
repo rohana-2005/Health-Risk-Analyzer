@@ -46,6 +46,3 @@ cd ../react-frontend
 npm install
 npm start
 
-![image](https://github.com/user-attachments/assets/9cb32820-569a-4ace-919e-c70e6a7ca537)
-![image](https://github.com/user-attachments/assets/6a5b468e-6c2c-4ea0-919c-2e0785f7555d)
-![image](https://github.com/user-attachments/assets/3901c1e1-acde-49eb-aecc-36226e11937c)
